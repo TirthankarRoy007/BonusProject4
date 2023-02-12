@@ -1,0 +1,27 @@
+{
+  "name": "bonusproject4",
+  "version": "1.0.0",
+  "description": "cronScheduler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TirthankarRoy007/BonusProject4.git"
+  },
+  "author": "Tirthankar Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TirthankarRoy007/BonusProject4/issues"
+  },
+  "homepage": "https://github.com/TirthankarRoy007/BonusProject4#readme",
+  "dependencies": {
+    "axios": "^1.3.2",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "node-cron": "^3.0.2",
+    "nodemon": "^2.0.20",
+    "shelljs": "^0.8.5"
+  }
+}
